@@ -1,0 +1,24 @@
+NAME
+    Task::Mock::Person - Install the Mock::Person modules.
+
+SYNOPSIS
+     cpanm Task::Mock::Person
+
+SEE ALSO
+    Lego::Part, Lego::Part::Image.
+
+REPOSITORY
+    <https://github.com/tupinek/Task-Lego>
+
+AUTHOR
+    Michal Špaček <mailto:skim@cpan.org>
+
+    <http://skim.cz>
+
+LICENSE AND COPYRIGHT
+     © 2015 Michal Špaček
+     BSD 2-Clause License
+
+VERSION
+    0.01
+

@@ -1,0 +1,36 @@
+---
+abstract: 'Install the Lego modules.'
+author:
+  - 'Michal Spacek <skim@cpan.org>'
+build_requires:
+  English: 0
+  ExtUtils::MakeMaker: 6.36
+  File::Object: 0.08
+  Test::More: 0
+  Test::NoWarnings: 0
+  Test::Pod: 0
+  Test::Pod::Coverage: 0
+configure_requires:
+  ExtUtils::MakeMaker: 6.36
+distribution_type: module
+dynamic_config: 1
+generated_by: 'Module::Install version 1.14'
+license: bsd
+meta-spec:
+  url: http://module-build.sourceforge.net/META-spec-v1.4.html
+  version: 1.4
+name: Task-Lego
+no_index:
+  directory:
+    - inc
+    - t
+requires:
+  Lego::Part: '0.01'
+  Lego::Part::Image: '0.02'
+  perl: 5.6.0
+resources:
+  bugtracker: https://rt.cpan.org/Public/Dist/Display.html?Name=Task-Lego
+  homepage: https://github.com/tupinek/Task-Lego
+  license: http://opensource.org/licenses/bsd-license.php
+  repository: git://github.com/tupinek/Task-Lego
+version: '0.01'
