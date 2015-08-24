@@ -11,8 +11,10 @@ author 'Michal Spacek <skim@cpan.org>';
 license 'bsd';
 name 'Task-Lego';
 readme_from 'Lego.pm';
-requires 'Lego::Part' => '0.01';
-requires 'Lego::Part::Image' => '0.02';
+requires 'Lego::From::PNG' => 0.04;
+requires 'Lego::Ldraw' => 0.5.8;
+requires 'Lego::Part' => '0.02';
+requires 'Lego::Part::Image' => '0.03';
 requires 'perl' => '5.6.0';
 resources 'bugtracker' => 'https://rt.cpan.org/Public/Dist/Display.html'.
 	'?Name=Task-Lego';

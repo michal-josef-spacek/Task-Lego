@@ -17,16 +17,45 @@ __END__
 
 =head1 NAME
 
-Task::Mock::Person - Install the Mock::Person modules.
+Task::Lego - Install the Lego modules.
 
 =head1 SYNOPSIS
 
- cpanm Task::Mock::Person
+ cpanm Task::Lego
 
 =head1 SEE ALSO
 
-L<Lego::Part>,
-L<Lego::Part::Image>.
+=over
+
+=item L<Lego::From::PNG>
+
+Convert PNGs into plans to build a two dimensional lego replica.
+
+=item L<Lego::Ldraw>
+
+Perl extension for parsing, modifying, translating and displaying Ldraw files.
+
+=item L<Lego::Part>
+
+Lego part object.
+
+=item L<Lego::Part::Image>
+
+Lego part image abstract class.
+
+=item L<Lego::Part::Image::PeeronCom>
+
+Lego part image class for peeron.com.
+
+=item L<Lego::Part::Image::LegoCom>
+
+Lego part image class for lego.com.
+
+=item L<Lego::Part::Image::LugnetCom>
+
+Lego part image class for lugnet.com.
+
+=back
 
 =head1 REPOSITORY
 

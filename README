@@ -1,11 +1,31 @@
 NAME
-    Task::Mock::Person - Install the Mock::Person modules.
+    Task::Lego - Install the Lego modules.
 
 SYNOPSIS
-     cpanm Task::Mock::Person
+     cpanm Task::Lego
 
 SEE ALSO
-    Lego::Part, Lego::Part::Image.
+    Lego::From::PNG
+        Convert PNGs into plans to build a two dimensional lego replica.
+
+    Lego::Ldraw
+        Perl extension for parsing, modifying, translating and displaying
+        Ldraw files.
+
+    Lego::Part
+        Lego part object.
+
+    Lego::Part::Image
+        Lego part image abstract class.
+
+    Lego::Part::Image::PeeronCom
+        Lego part image class for peeron.com.
+
+    Lego::Part::Image::LegoCom
+        Lego part image class for lego.com.
+
+    Lego::Part::Image::LugnetCom
+        Lego part image class for lugnet.com.
 
 REPOSITORY
     <https://github.com/tupinek/Task-Lego>
