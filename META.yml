@@ -35,4 +35,4 @@ resources:
   homepage: https://github.com/tupinek/Task-Lego
   license: http://opensource.org/licenses/bsd-license.php
   repository: git://github.com/tupinek/Task-Lego
-version: '0.01'
+version: '0.02'
