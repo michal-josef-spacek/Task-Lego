@@ -1,4 +1,5 @@
 0.02
+ - Fix Makefile.PL and META.yml files.
 
 0.01 2015-08-24T11:33:29+02:00
  - First version

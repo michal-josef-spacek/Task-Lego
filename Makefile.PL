@@ -12,7 +12,7 @@ license 'bsd';
 name 'Task-Lego';
 readme_from 'Lego.pm';
 requires 'Lego::From::PNG' => 0.04;
-requires 'Lego::Ldraw' => 0.5.8;
+requires 'Lego::Ldraw' => '0.5.8';
 requires 'Lego::Part' => '0.02';
 requires 'Lego::Part::Image' => '0.03';
 requires 'perl' => '5.6.0';
