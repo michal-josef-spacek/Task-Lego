@@ -25,7 +25,7 @@ requires:
   Lego::From::PNG: 0.04
   Lego::Ldraw: 0.5.8
   Lego::Part: '0.03'
-  Lego::Part::Image: '0.04'
+  Lego::Part::Image: '0.05'
   perl: 5.6.0
 resources:
   bugtracker: https://rt.cpan.org/Public/Dist/Display.html?Name=Task-Lego
