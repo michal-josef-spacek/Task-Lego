@@ -27,7 +27,7 @@ no_index:
 requires:
   Lego::From::PNG: 0.04
   Lego::Ldraw: 0.5.8
-  Lego::Part: '0.02'
+  Lego::Part: '0.03'
   Lego::Part::Image: '0.04'
   perl: 5.6.0
 resources:
