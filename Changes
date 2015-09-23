@@ -1,4 +1,5 @@
 0.03
+ - Move author tests to xt/ directory.
  - Update Lego::Part to 0.03 version.
 
 0.02 2015-08-25T23:06:42+02:00

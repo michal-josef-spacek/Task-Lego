@@ -1,5 +1,7 @@
 Changes
 inc/Module/Install.pm
+inc/Module/Install/AuthorRequires.pm
+inc/Module/Install/AuthorTests.pm
 inc/Module/Install/Base.pm
 inc/Module/Install/Can.pm
 inc/Module/Install/Fetch.pm
@@ -14,7 +16,7 @@ MANIFEST			This list of files
 META.yml
 README
 SIGNATURE
-t/Task-Lego/00-use.t
-t/Task-Lego/01-version.t
-t/Task-Lego/02-pod_coverage.t
-t/Task-Lego/03-pod.t
+t/Task-Lego/01-use.t
+t/Task-Lego/02-version.t
+xt/Task-Lego/01-pod_coverage.t
+xt/Task-Lego/02-pod.t
