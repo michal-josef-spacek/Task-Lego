@@ -10,6 +10,8 @@ abstract 'Install the Lego modules.';
 author 'Michal Spacek <skim@cpan.org>';
 author_requires 'English' => 0;
 author_requires 'File::Object' => 0.08;
+test_requires 'Test::More' => 0;
+test_requires 'Test::NoWarnings' => 0;
 author_requires 'Test::Pod' => 0;
 author_requires 'Test::Pod::Coverage' => 0;
 license 'bsd';
