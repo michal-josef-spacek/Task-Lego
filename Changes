@@ -2,6 +2,7 @@
  - Fix author test requires.
  - Update to Module::Install 1.18.
  - Update author name.
+ - Update copyright years.
 
 0.03 2015-09-24T00:23:10+02:00
  - Move author tests to xt/ directory.
