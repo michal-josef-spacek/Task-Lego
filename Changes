@@ -1,4 +1,5 @@
 0.04
+ - Add LICENSE.bsd file.
  - Fix author test requires.
  - Update to Module::Install 1.18.
  - Update author name.
