@@ -1,6 +1,7 @@
 0.04
  - Add LICENSE.bsd file.
  - Fix author test requires.
+ - Improve LICENSE AND COPYRIGHT section in doc.
  - Update to Module::Install 1.21.
  - Update author name.
  - Update author github name.
