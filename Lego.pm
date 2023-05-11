@@ -59,7 +59,7 @@ Lego part image class for lugnet.com.
 
 =head1 REPOSITORY
 
-L<https://github.com/tupinek/Task-Lego>
+L<https://github.com/michal-josef-spacek/Task-Lego>
 
 =head1 AUTHOR
 

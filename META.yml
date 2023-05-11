@@ -29,7 +29,7 @@ requires:
   perl: 5.6.0
 resources:
   bugtracker: https://rt.cpan.org/Public/Dist/Display.html?Name=Task-Lego
-  homepage: https://github.com/tupinek/Task-Lego
+  homepage: https://github.com/michal-josef-spacek/Task-Lego
   license: http://opensource.org/licenses/bsd-license.php
-  repository: git://github.com/tupinek/Task-Lego
+  repository: git://github.com/michal-josef-spacek/Task-Lego
 version: '0.04'
