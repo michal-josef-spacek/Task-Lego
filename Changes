@@ -1,5 +1,6 @@
 0.05
  - Fix author name.
+ - Fix minimal version of Lego::Ldraw to normalized version.
 
 0.04 2023-05-11T19:12:47+02:00
  - Add LICENSE.bsd file.
